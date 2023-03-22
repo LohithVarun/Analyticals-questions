@@ -1,0 +1,12 @@
+1) Output : 
+        A
+2) Input :
+       Enter the string : lohith
+   Output: 
+       LOHITH
+3) Output :
+       ERROR
+4) No. The for loop tells the correct string lenght (11),where as the while loop gives 12 as the length.
+5) x points to the null, dereferencing the null results in crashing of the program.
+6) a++ is the error because you cant increment an array
+7) 11 22 33 44 55.
